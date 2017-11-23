@@ -1,0 +1,19 @@
+{
+  "name": "react-native-cj-umeng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oubushixb/react-native-cj-umeng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oubushixb/react-native-cj-umeng/issues"
+  },
+  "homepage": "https://github.com/oubushixb/react-native-cj-umeng#readme"
+}
