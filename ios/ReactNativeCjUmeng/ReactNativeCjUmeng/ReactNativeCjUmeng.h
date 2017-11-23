@@ -7,7 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UMCommon/UMCommon.h>
+#import <UMAnalytics/MobClick.h>
 
 @interface ReactNativeCjUmeng : NSObject
+
+
 
 @end
